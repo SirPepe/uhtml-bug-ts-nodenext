@@ -1,0 +1,16 @@
+{
+  "name": "uhtml-bug-ts-nodenext",
+  "version": "0.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.2.2",
+    "uhtml": "^3.2.1"
+  }
+}
